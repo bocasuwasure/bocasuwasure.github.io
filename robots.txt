@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bocasuwasure.github.io/sitemap.xml
